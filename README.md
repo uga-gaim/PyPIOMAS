@@ -23,12 +23,7 @@ This package is written in Python 3 by [Weiming Hu](https://weiming-hu.github.io
 
 ## Installation
 
-There are two ways to install the package:
-
-1. **Recommended** From GitHub: `pip install git+https://github.com/uga-gaim/PyPIOMAS.git`
-2. From PyPi: `pip install PyPIOMAS`
-
-Installing from GitHub will guarantee the latest version.
+**Recommended** From GitHub: `pip install git+https://github.com/uga-gaim/PyPIOMAS.git`
 
 ## Usage
 
