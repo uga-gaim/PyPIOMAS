@@ -40,7 +40,7 @@ def determine_downloadable_file_url(base_url, folder, variable, year, ignore_war
     """
 
     # Define the regular expression to identify the file name to download
-    regex = f'>({variable}.H{year}.*?)<'
+    regex = f'>({variable}\.H{year}\.gz)<'
 
     # Download the index page
     index_url = '/'.join([base_url, folder])
